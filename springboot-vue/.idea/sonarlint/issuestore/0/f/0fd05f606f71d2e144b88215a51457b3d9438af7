@@ -1,0 +1,5 @@
+
+Ksquid:S1481!"(Remove this unused "res" local variable.(–ØŠ»üÿÿÿÿ8İÈÛ¥½-
+psquid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¿Ÿï8í¶µ¥½-
+Msquid:S1068"*Remove this unused "logger" private field.(¦Ï¡åûÿÿÿÿ8‚‡º¥½-
+xsquid:UselessImportCheck"HRemove this unused import 'cn.test.spring.service.impl.UserServiceImpl'.(Í‘Ãşÿÿÿÿ8Áº¥½-

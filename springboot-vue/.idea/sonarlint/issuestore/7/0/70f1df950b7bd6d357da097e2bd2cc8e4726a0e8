@@ -1,0 +1,6 @@
+
+psquid:S3776O"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ã¹ï8˜ß½¥½-
+dsquid:CallToDeprecatedMethod"0Remove this use of "basePath"; it is deprecated.(¬«Î©øÿÿÿÿ8˜ß½¥½-
+isquid:S3027ü"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(Úë™8˜ß½¥½-
+gsquid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(¬«Î©øÿÿÿÿ8˜ß½¥½-
+nsquid:S3027ş"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(»íÛ¸şÿÿÿÿ8˜ß½¥½-

@@ -1,0 +1,5 @@
+
+msquid:S3027"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(ˆµÑºşÿÿÿÿ8ÀŒÛ½-
+Fsquid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀŒÛ½-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.( Àı¶şÿÿÿÿ8ÀŒÛ½-

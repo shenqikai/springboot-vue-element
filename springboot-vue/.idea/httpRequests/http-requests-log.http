@@ -1,0 +1,14 @@
+POST http://localhost:8081/user/findByUsername?username=sqk
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8081/user/findByUsername?username=sqk
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-03T110837.200.json
+
+###
+

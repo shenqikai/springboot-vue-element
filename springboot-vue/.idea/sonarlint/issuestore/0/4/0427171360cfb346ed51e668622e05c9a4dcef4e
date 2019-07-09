@@ -1,0 +1,4 @@
+
+wsquid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÉæÃ8Š¦…ª²-
+gsquid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(Ûë‹Äúÿÿÿÿ8Š¦…ª²-
+Asquid:S1148%"#Use a logger to log this exception.(Ç’Çê8Š¦…ª²-

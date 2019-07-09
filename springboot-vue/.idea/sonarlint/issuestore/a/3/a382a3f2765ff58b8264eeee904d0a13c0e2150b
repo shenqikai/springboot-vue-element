@@ -1,0 +1,5 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›äÂ¢8Ïâª²-
+asquid:S2583#"CChange this condition so that it does not always evaluate to "true"(œ‚öª8Ïâª²-
+nsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(Øù‘Êüÿÿÿÿ8üª²-
+Â%squid:RedundantThrowsDeclarationCheck"„Remove the declaration of thrown exception 'org.springframework.security.core.AuthenticationException' which is a runtime exception.(²ˆŽÐøÿÿÿÿ8ýòŽª²-

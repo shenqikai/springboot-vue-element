@@ -1,0 +1,14 @@
+
+wsquid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï‚À²8–äğ€½-
+\squid:S11556">Use isEmpty() to check whether the collection is empty or not.(Œüİ8öñ€½-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ááµ°şÿÿÿÿ8–äğ€½-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(÷ä—Åûÿÿÿÿ8–äğ€½-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ááµ°şÿÿÿÿ8–äğ€½-
+dsquid:S00112D"FDefine and throw a dedicated exception instead of using a generic one.(£¸Æ8–äğ€½-
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿŸ’ûıÿÿÿÿ8–äğ€½-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(íáü¯8–äğ€½-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ñ•Ÿ«ıÿÿÿÿ8–äğ€½-
+hsquid:S3027F"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(ª²—8–äğ€½-
+isquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(“ÇÊ†8–äğ€½-
+esquid:S00112L"FDefine and throw a dedicated exception instead of using a generic one.(šœî¯8–äğ€½-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷ä—Åûÿÿÿÿ8–äğ€½-

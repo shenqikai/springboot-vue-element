@@ -1,0 +1,18 @@
+
+jsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(ÿ±…À8ˆÆ»¥½-
+msquid:S2095,"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(ÐÅ±Ìøÿÿÿÿ8ë©Ö¤½-
+fsquid:UselessImportCheck";Remove this unused import 'cn.test.spring.dao.pojo.Result'.(ÌÂß“8ë©Ö¤½-
+osquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(í¯ðŠüÿÿÿÿ8ë©Ö¤½-
+osquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ˆÆ»¥½-
+gsquid:UselessImportCheck"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äýµ8ë©Ö¤½-
+„squid:S1488s"fImmediately return this expression instead of assigning it to the temporary variable "responseEntity".(Ÿª×Ê8ë©Ö¤½-
+jsquid:UselessImportCheck"?Remove this unused import 'cn.test.spring.dao.pojo.StatusCode'.(÷žê©8ë©Ö¤½-
+isquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(›þµú8ë©Ö¤½-
+isquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(¡åŒ8ˆÆ»¥½-
+jsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(ðþé‡8ˆÆ»¥½-
+osquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(Õ…ñÜúÿÿÿÿ8ˆÆ»¥½-
+osquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ÿ£†­þÿÿÿÿ8ˆÆ»¥½-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îñ¦²ûÿÿÿÿ8ˆÆ»¥½-
+jsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(»™ê8ˆÆ»¥½-
+jsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(Ñ´Ðû8ˆÆ»¥½-
+dsquid:S1858Ã"@"format" returns a string, there's no need to call "toString()".(âÀ†‹ùÿÿÿÿ8ë©Ö¤½-

@@ -1,0 +1,5 @@
+
+|squid:S1488C"^Immediately return this expression instead of assigning it to the temporary variable "format".(šÙ†ş8ß¦ì£½-
+Isquid:S1481f"&Remove this unused "o" local variable.(éÔöüÿÿÿÿ8ß¦ì£½-
+Msquid:S1172d"*Remove this unused method parameter "obj".(Äû´ıÿÿÿÿ8ß¦ì£½-
+Msquid:S00108f")Either remove or fill this block of code.(éÔöüÿÿÿÿ8ß¦ì£½-
